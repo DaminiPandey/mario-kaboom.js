@@ -9,7 +9,7 @@ For the sake of simplicity I've added only two levels to the game but more level
 Feel free to alter the game, by adding more interesting maps to the game world.</p>
 
 <p>Link for the sprites 👉 https://imgur.com/a/F8Jkryq<p>
-<p>Play the game here 👉 </p>
+<p>Play the game here 👉 https://daminipandey.github.io/mario-kaboom.js/</p>
 
 
 <p>Author ✍️ : Damini Pandey</p>
